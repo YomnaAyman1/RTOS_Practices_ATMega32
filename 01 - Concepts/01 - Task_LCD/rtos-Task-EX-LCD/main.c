@@ -1,9 +1,9 @@
 /*
  * rtos-Task-EX-LCD.c
  *
- * Created: 4/11/2020 6:42:37 AM
- * Author : mosad
- */ 
+ * Created: 2/8/2022 
+ *  Author: yomna
+ */
 
 #define F_CPU 1000000
 #include <avr/io.h>
