@@ -1,8 +1,8 @@
 /*
  * rtos-semaphore-synch-tasks.c
  *
- * Created: 4/17/2020 3:21:22 AM
- * Author : mosad
+ * Created: 6/8/2022 
+ *  Author: yomna
  */ 
 
 
