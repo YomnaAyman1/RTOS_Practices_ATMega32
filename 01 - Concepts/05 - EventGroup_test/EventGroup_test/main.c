@@ -1,9 +1,9 @@
 /*
  * EventGroup_test.c
  *
- * Created: 7/19/2020 4:33:27 AM
- * Author : mosad
- */ 
+ * Created: 9/8/2022 
+ *  Author: yomna
+ */  
 #define F_CPU 8000000
 #include <avr/io.h>
 #include "FreeRTOS.h"
