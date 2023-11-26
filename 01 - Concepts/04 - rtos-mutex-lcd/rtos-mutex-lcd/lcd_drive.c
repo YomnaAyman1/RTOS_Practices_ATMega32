@@ -1,8 +1,8 @@
 /*
  * lcd_drive.c
  *
- * Created: 2/11/2020 8:52:20 AM
- *  Author:mosad
+ * Created: 2/7/2022 
+ *  Author: yomna
  */ 
 
 #include "lcd_drive.h"
