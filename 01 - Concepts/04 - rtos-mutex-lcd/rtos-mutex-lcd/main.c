@@ -1,9 +1,9 @@
 /*
  * rtos_mutex.c
  *
- * Created: 4/19/2020 2:46:14 PM
- * Author : mosad
- */ 
+ * Created: 9/8/2022 
+ *  Author: yomna
+ */  
 
 #include <avr/io.h>
 #include "FreeRTOS.h"
